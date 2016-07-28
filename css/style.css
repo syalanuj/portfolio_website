@@ -22,3 +22,6 @@ body {
 .image-center{
     margin: auto;
 }
+.broad-line {
+    border-top: 4px solid #eeeeee;
+}
