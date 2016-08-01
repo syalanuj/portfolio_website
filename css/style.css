@@ -1,5 +1,5 @@
 body {
-    font-family: 'Lato', sans-serif;
+    font-family: "Lato", sans-serif;
     color: #2d3c49;
     font-weight: 300;
 }
@@ -19,9 +19,11 @@ body {
 .title-logo {
     margin-top: 20px;
 }
-.image-center{
+
+.image-center {
     margin: auto;
 }
+
 .broad-line {
     border-top: 4px solid #eeeeee;
 }
